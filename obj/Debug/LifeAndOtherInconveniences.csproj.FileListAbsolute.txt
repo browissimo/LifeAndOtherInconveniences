@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LifeAndOtherInconveniences\bin\Debug\LifeAndOtherInconveniences.exe.config
+C:\Users\Admin\source\repos\LifeAndOtherInconveniences\bin\Debug\LifeAndOtherInconveniences.exe
+C:\Users\Admin\source\repos\LifeAndOtherInconveniences\bin\Debug\LifeAndOtherInconveniences.pdb
+C:\Users\Admin\source\repos\LifeAndOtherInconveniences\obj\Debug\LifeAndOtherInconveniences.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LifeAndOtherInconveniences\obj\Debug\LifeAndOtherInconveniences.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LifeAndOtherInconveniences\obj\Debug\LifeAndOtherInconveniences.exe
+C:\Users\Admin\source\repos\LifeAndOtherInconveniences\obj\Debug\LifeAndOtherInconveniences.pdb
